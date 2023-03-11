@@ -1,1 +1,1 @@
-Este texto funciona como prueba de git.
+Este texto funciona como prueba de git. Este segmento del texto solo fue agregado desde el repositorio externo.
